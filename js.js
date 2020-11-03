@@ -49,7 +49,7 @@
 	});
 
 	
-	//Travel portfolio page
+	//Acrylique portfolio page
 	
 	$(".travel").on('click', function () {
 		$("body").addClass("travel-on");
@@ -59,7 +59,7 @@
 	});
 
 	
-	//Wildlife portfolio page
+	//Dessins portfolio page
 	
 	$(".wildlife").on('click', function () {
 		$("body").addClass("wildlife-on");
