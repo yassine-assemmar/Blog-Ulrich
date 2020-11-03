@@ -51,21 +51,21 @@
 	
 	//Acrylique portfolio page
 	
-	$(".travel").on('click', function () {
-		$("body").addClass("travel-on");
+	$(".acrylique").on('click', function () {
+		$("body").addClass("acrylique-on");
 	});
-	$(".travel-close").on('click', function () {
-		$("body").removeClass("travel-on");
+	$(".acrylique-close").on('click', function () {
+		$("body").removeClass("acrylique-on");
 	});
 
 	
 	//Dessins portfolio page
 	
-	$(".wildlife").on('click', function () {
-		$("body").addClass("wildlife-on");
+	$(".dessins").on('click', function () {
+		$("body").addClass("dessins-on");
 	});
-	$(".wildlife-close").on('click', function () {
-		$("body").removeClass("wildlife-on");
+	$(".dessins-close").on('click', function () {
+		$("body").removeClass("dessins-on");
 	});
 
 	
